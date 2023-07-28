@@ -1,1 +1,1 @@
-# Kodluyoruz-Js-Hw1
+# Name and timer with Javascript
